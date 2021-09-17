@@ -1,5 +1,5 @@
 # Private-Playground
-## Physics week 7
+## Physics week 8
 ![p](https://github.com/Mr-Criminal/Private-Playground/blob/main/Assignments/ph1.jpg)
 ![p](https://github.com/Mr-Criminal/Private-Playground/blob/main/Assignments/ph2.jpg)
 ![p](https://github.com/Mr-Criminal/Private-Playground/blob/main/Assignments/ph3.jpg)
